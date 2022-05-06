@@ -28,6 +28,9 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+![Next](https://img.shields.io/badge/Next.js-282C34?style=flat-square&logo=next.js)
+![Express](https://img.shields.io/badge/Express-282C34?logo=express)
+![Styled Components](https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components)
 
 
 ⭐️ From [Ferslort](https://github.com/ferslort)
